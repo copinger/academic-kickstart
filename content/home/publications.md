@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "P. Copinger, K. Fukushima, and S. Pu"
     exclude_featured = false
   
 [design]
